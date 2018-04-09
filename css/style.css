@@ -1,0 +1,204 @@
+body {
+	width: 100%;
+	margin: 0;
+	
+}
+
+main {
+	width: 100%;
+}
+
+/*========== head =============*/
+.head {
+    background-color: #0600ff;
+    opacity: 0.6;
+}
+
+/*=========== logo ===========*/
+#logo {
+	display: inline-block;
+	width: 30%;
+}
+
+#logo img {
+	height: 70px;
+	width: 100px;
+	margin: 5px;
+}
+
+.nav {
+	width: 70%;
+	float: right;
+	padding-top: 5px;
+}
+
+.nav ul {
+	list-style-type: none;
+	padding: 30
+	margin: 0;
+	overflow: hidden;
+}
+
+.nav li {
+	display: inline-block;
+}
+
+.nav li a {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+	text-align: center;
+}
+
+.nav li a:hover {
+	background-color: #111;
+	color: #639;
+}
+.img{
+	width: 5px;
+	margin-top:0px;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 5px;
+}
+/*===========index pix===========*/
+.sote{
+	width: 20%;
+	height: 50%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	box-shadow: 200%;
+	
+}
+/*=============name==============*/
+.ued{
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	margin: 10px 10px;
+	text-align: center;
+}
+/*============my profile==========*/
+.me{
+   margin: 2%;
+   padding: 2%;
+  text-align: center;
+}
+.you{
+	margin: 30px;
+	padding: 3px;
+	float: left  30;
+}
+/*===========my image*/
+.leg{
+	width: 17%;
+	margin: 5px;
+	padding: 5px;
+	 float: right;
+}
+.los{
+	width: 20px;
+    margin: 60px;
+}
+#nig{
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 20px;
+}
+#nip{
+	margin: 20px;
+}
+/*===============first head in news===============*/
+.new{
+	margin-left: 600px;
+	padding: 7px;
+	text-align: center;
+}
+/*===============first image and letter in news=======*/
+#ng{
+	float: left;
+	background-color: #ccc3c4;
+	overflow: auto;
+	height: 200px;
+	margin: 5px;
+	padding: 5px;
+}
+.row{
+	margin: 20px;
+	padding: 20px;
+}
+.map{
+	background-color: #ccc2c2;
+}
+.hap{
+	margin-left: 250px;
+	padding: 10px;
+	background-color: white;
+}
+.rop{
+	float: right;
+}
+.ma8{
+	margin: 3px;
+	padding: 10px;
+}
+.ma4{
+	background: white;
+}
+.us{
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+	font-size: 30px;
+	color: red;
+}
+.num{
+	margin: 15px;
+	padding: 15px;
+	font-size: 27px;
+	text-align: center;
+}
+.mal{
+	margin: 15px;
+	padding: 15px;
+	text-align: center;
+	font-size: 27px;
+	color: blue;
+}
+.drs{
+	margin: 15px;
+	padding: 15px;
+	text-align: center;
+	font-size: 27px
+}
+.wod{
+	margin: 15px;
+	padding: 15px;
+	text-align: center;
+	font-size: 25px;
+}
+.form-control {
+    margin: 7px;
+    padding: 7px;
+    font-size: 20px;
+    text-align: center;
+}
+.profile{
+	margin: 5px;
+	padding: 2px;
+    float: right;
+    color: blue;
+}
+/*============footer=========*/
+.foot {
+	background-color: white;
+	opacity: 0.3;
+	color: red;
+	width: 100%;
+	padding: 5px 10px;
+	text-align: center;
+}
